@@ -33,27 +33,3 @@ Firefly works on the principle that if you know where you're money is going, you
 
 Firefly is pretty awesome. [You can read more about imfirefly, and its features, on the Github Pages](https://imfirefly.github.io/).
 
-### Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/imfirefly/imfirefly/blob/master/.github/CONTRIBUTING.md) for details on contributing, and the process for submitting pull requests. Please check out the [code of conduct](https://github.com/imfirefly/imfirefly/blob/master/CODE_OF_CONDUCT.md) as well.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see [the tags](https://github.com/imfirefly/imfirefly/tags) on this repository.
-
-### Authors
-
-* James Cole
-* Over time, [many people have contributed to imfirefly](https://github.com/imfirefly/imfirefly/graphs/contributors).
-
-### License
-
-This work [is licensed](https://github.com/imfirefly/imfirefly/blob/master/LICENSE) under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-### Other stuff
-
-If you like Firefly and if it helps you save lots of money, why not send me [a dime for every dollar saved](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=44UKUT455HUFA) (this is a joke, although the Paypal form works just fine, try it!)
-
-If you want to contact me, please open an issue or [email me](mailto:thegrumpydictator@gmail.com).
-
-[![Build Status](https://travis-ci.org/imfirefly/imfirefly.svg?branch=master)](https://travis-ci.org/imfirefly/imfirefly) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/imfirefly/imfirefly/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/imfirefly/imfirefly/?branch=master) [![Coverage Status](https://coveralls.io/repos/github/imfirefly/imfirefly/badge.svg?branch=master)](https://coveralls.io/github/imfirefly/imfirefly?branch=master)
